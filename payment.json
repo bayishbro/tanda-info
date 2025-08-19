@@ -1,0 +1,25 @@
+{
+  "payment_info": [
+    {
+      "title": "Free",
+      "price": "0$",
+      "color": ["#E0E0E0", "#9E9E9E"],
+      "icon": "lock_open_rounded",
+      "features": ["Ограниченные функции", "Реклама", "Нет оффлайн режима"]
+    },
+    {
+      "title": "Gold",
+      "price": "1$",
+      "color": ["#FFCA28", "#F57C00"],
+      "icon": "star_rounded",
+      "features": ["Нет рекламы", "Базовый оффлайн режим", "Поддержка 24/7"]
+    },
+    {
+      "title": "Premium",
+      "price": "3.99$",
+      "color": ["#AB47BC", "#512DA8"],
+      "icon": "diamond_rounded",
+      "features": ["Все функции", "Полный оффлайн", "Приоритетная поддержка"]
+    }
+  ]
+}
